@@ -2,18 +2,18 @@
     "welcome": "Hola,",
     "select_option": "Seleccione la opción que le gustaría realizar.",
 
-    "start_web": "WEB - BetterDiscordPanel",
+    "start_app": "BetterDiscordPanel",
     "start_desktop": "APLICACIÓN DE ESCRITORIO - BetterDiscordPanel",
 
-    "support": "Apoyo",
+    "support": "Soporte",
     "settings": "Configuraciones",
     "update": "Buscar actualizaciones",
     "language": "Idioma",
-    "go_back": "Regresa",
+    "go_back": "Regresar",
     "done": "Hecho",
-    "exit": "Salida",
+    "exit": "Salir",
 
-    "discordserver": "Discord Servidor",
+    "discordserver": "Servidor de Discord",
     "submit_issue": "Envíe un problema / informe de error / sugerencia",
 
     "betterdiscordpanel_help":"Inicie BetterDiscordPanel en su navegador predeterminado.",
